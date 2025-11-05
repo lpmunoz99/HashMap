@@ -1,4 +1,4 @@
-This is the seventh project of Javascript curriculum through The Odin Project, a Hash Map with the listed functions:
+This is the eighth project of Javascript curriculum through The Odin Project, a Hash Map with the listed functions:
 
 -hash(key) takes a key and produces a hash code with it.
 
